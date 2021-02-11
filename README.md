@@ -1,3 +1,3 @@
 # STM32
 
-![devre](https://user-images.githubusercontent.com/59617257/107707667-46ffca80-6cd3-11eb-9941-528287ddc10c.gif)
+![6025b428dfe94565211988](https://user-images.githubusercontent.com/59617257/107708387-73681680-6cd4-11eb-958d-e4a3df5ffa90.gif)
