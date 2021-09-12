@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\f401-hcsr04\f401-hcsr04\bin\Debug\f401-hcsr04.exe.config
+C:\Users\HP\source\repos\f401-hcsr04\f401-hcsr04\bin\Debug\f401-hcsr04.exe
+C:\Users\HP\source\repos\f401-hcsr04\f401-hcsr04\bin\Debug\f401-hcsr04.pdb
+C:\Users\HP\source\repos\f401-hcsr04\f401-hcsr04\obj\Debug\f401-hcsr04.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\f401-hcsr04\f401-hcsr04\obj\Debug\f401_hcsr04.Form1.resources
+C:\Users\HP\source\repos\f401-hcsr04\f401-hcsr04\obj\Debug\f401_hcsr04.Properties.Resources.resources
+C:\Users\HP\source\repos\f401-hcsr04\f401-hcsr04\obj\Debug\f401-hcsr04.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\f401-hcsr04\f401-hcsr04\obj\Debug\f401-hcsr04.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\f401-hcsr04\f401-hcsr04\obj\Debug\f401-hcsr04.exe
+C:\Users\HP\source\repos\f401-hcsr04\f401-hcsr04\obj\Debug\f401-hcsr04.pdb
