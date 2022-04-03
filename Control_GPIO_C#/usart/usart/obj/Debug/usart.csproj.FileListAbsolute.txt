@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\usart\usart\bin\Debug\usart.exe.config
+C:\Users\HP\source\repos\usart\usart\bin\Debug\usart.exe
+C:\Users\HP\source\repos\usart\usart\bin\Debug\usart.pdb
+C:\Users\HP\source\repos\usart\usart\obj\Debug\usart.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\usart\usart\obj\Debug\usart.USART.resources
+C:\Users\HP\source\repos\usart\usart\obj\Debug\usart.Properties.Resources.resources
+C:\Users\HP\source\repos\usart\usart\obj\Debug\usart.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\usart\usart\obj\Debug\usart.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\usart\usart\obj\Debug\usart.exe
+C:\Users\HP\source\repos\usart\usart\obj\Debug\usart.pdb
